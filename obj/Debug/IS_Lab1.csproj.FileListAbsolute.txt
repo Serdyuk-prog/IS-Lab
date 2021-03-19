@@ -1,0 +1,10 @@
+C:\dev\IS_Lab1\bin\Debug\IS_Lab1.exe.config
+C:\dev\IS_Lab1\bin\Debug\IS_Lab1.exe
+C:\dev\IS_Lab1\bin\Debug\IS_Lab1.pdb
+C:\dev\IS_Lab1\obj\Debug\IS_Lab1.csprojAssemblyReference.cache
+C:\dev\IS_Lab1\obj\Debug\IS_Lab1.Form1.resources
+C:\dev\IS_Lab1\obj\Debug\IS_Lab1.Properties.Resources.resources
+C:\dev\IS_Lab1\obj\Debug\IS_Lab1.csproj.GenerateResource.cache
+C:\dev\IS_Lab1\obj\Debug\IS_Lab1.csproj.CoreCompileInputs.cache
+C:\dev\IS_Lab1\obj\Debug\IS_Lab1.exe
+C:\dev\IS_Lab1\obj\Debug\IS_Lab1.pdb
