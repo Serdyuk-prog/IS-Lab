@@ -3,9 +3,9 @@ namespace IS_Lab1
 {
     class FromJson
     {
-        public string LabelText;
-        public string ErrorMessage;
-        public double MaxScore;
-        public List<string> Answers;
+        public string LabelText = null;
+        public string ErrorMessage = null;
+        public double MaxScore = 0;
+        public List<string> Answers = null;
     }
 }

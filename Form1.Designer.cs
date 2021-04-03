@@ -36,8 +36,8 @@ namespace IS_Lab1
             this.tb_Qualiy = new System.Windows.Forms.TabPage();
             this.tableLayoutPanel2 = new System.Windows.Forms.TableLayoutPanel();
             this.tb_Customer = new System.Windows.Forms.TabPage();
-            this.bt_Done = new System.Windows.Forms.Button();
             this.tableLayoutPanel3 = new System.Windows.Forms.TableLayoutPanel();
+            this.bt_Done = new System.Windows.Forms.Button();
             this.tc_Main.SuspendLayout();
             this.tb_Interface.SuspendLayout();
             this.tb_Qualiy.SuspendLayout();
@@ -89,7 +89,7 @@ namespace IS_Lab1
             this.tb_Qualiy.Padding = new System.Windows.Forms.Padding(3);
             this.tb_Qualiy.Size = new System.Drawing.Size(735, 496);
             this.tb_Qualiy.TabIndex = 1;
-            this.tb_Qualiy.Text = "Качество продукта";
+            this.tb_Qualiy.Text = "Функциональность";
             this.tb_Qualiy.UseVisualStyleBackColor = true;
             // 
             // tableLayoutPanel2
@@ -116,16 +116,6 @@ namespace IS_Lab1
             this.tb_Customer.Text = "Требования заказчика";
             this.tb_Customer.UseVisualStyleBackColor = true;
             // 
-            // bt_Done
-            // 
-            this.bt_Done.Location = new System.Drawing.Point(563, 550);
-            this.bt_Done.Name = "bt_Done";
-            this.bt_Done.Size = new System.Drawing.Size(164, 59);
-            this.bt_Done.TabIndex = 1;
-            this.bt_Done.Text = "Готово";
-            this.bt_Done.UseVisualStyleBackColor = true;
-            this.bt_Done.Click += new System.EventHandler(this.bt_Done_Click);
-            // 
             // tableLayoutPanel3
             // 
             this.tableLayoutPanel3.CellBorderStyle = System.Windows.Forms.TableLayoutPanelCellBorderStyle.InsetDouble;
@@ -138,6 +128,16 @@ namespace IS_Lab1
             this.tableLayoutPanel3.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 25F));
             this.tableLayoutPanel3.Size = new System.Drawing.Size(718, 480);
             this.tableLayoutPanel3.TabIndex = 1;
+            // 
+            // bt_Done
+            // 
+            this.bt_Done.Location = new System.Drawing.Point(563, 550);
+            this.bt_Done.Name = "bt_Done";
+            this.bt_Done.Size = new System.Drawing.Size(164, 59);
+            this.bt_Done.TabIndex = 1;
+            this.bt_Done.Text = "Готово";
+            this.bt_Done.UseVisualStyleBackColor = true;
+            this.bt_Done.Click += new System.EventHandler(this.Bt_Done_Click);
             // 
             // Form1
             // 
